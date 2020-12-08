@@ -3,11 +3,24 @@
 ### Contributors: [Aleksandar Dmitrovic](https://github.com/AleksandarDmitrovic), [Eric Mcgrandle](https://github.com/ericmcgrandle), [Josh Grant](https://github.com/JoshGrant5)
 
 ## About This Project
-Symposium is the connection platform for people to discuss topics covered in the podcasts they love. Users can create discussion rooms where they can specify the conversation they want to have about a particular podcast episode and for how long the room will be open. Other users can view available conversations and join them.
+Symposium is the connection platform for like-minded people to discuss topics covered in the podcasts they love. Users can create discussion rooms where they can interact with others and have conversations about a particular podcast episode. Other users can view all of the open conversation rooms and join them.
 
-This app was built for the Final Project of the Lighthouse Labs Web Development Bootcamp.
+This app was built for the Final Project of the Lighthouse Labs Web Development Bootcamp. It was an extremely fulfilling experience, and an absolute treat working alongside the awesome teammates listed above.
 
-Here is the app live: https://the-symposium.herokuapp.com/
+To view the app live on Heroku, please visit https://the-symposium.herokuapp.com/
+
+## Stack
+
+### Front-End
+- React
+- Material UI
+- SCSS
+
+### Back-End
+- Node.js
+- Express
+- Socket.IO
+- PostgreSQL
 
 ## Final Product
 
@@ -38,19 +51,6 @@ Here is the app live: https://the-symposium.herokuapp.com/
 #### Share your conversation 
 
 !["Social Media Links"](https://github.com/AleksandarDmitrovic/symposium/blob/main/client/public/gifs/2020-12-01%2019.34.54.gif)
-
-## Stack
-
-### Front-End
-- React
-- Material UI
-- SCSS
-
-### Back-End
-- Node.js
-- Express
-- Socket.IO
-- PostgreSQL
 
 ## Set Up On Local Machine
 This application requires two servers to run! 
