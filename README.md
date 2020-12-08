@@ -44,6 +44,7 @@ Here is the app live: https://the-symposium.herokuapp.com/
 ### Back-End
 - Node.js
 - Express
+- Socket.IO
 - PostgreSQL
 
 ### Front-End
