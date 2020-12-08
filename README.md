@@ -41,15 +41,16 @@ Here is the app live: https://the-symposium.herokuapp.com/
 
 ## Stack
 
+### Front-End
+- React
+- Material UI
+- SCSS
+
 ### Back-End
 - Node.js
 - Express
 - Socket.IO
 - PostgreSQL
-
-### Front-End
-- React
-- SCSS
 
 ## Set Up On Local Machine
 This application requires two servers to run! 
