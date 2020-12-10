@@ -9,17 +9,19 @@ This app was built for the Final Project of the Lighthouse Labs Web Development 
 
 To view the app live on Heroku, please visit https://the-symposium.herokuapp.com/
 
-## Stack
+## Tech Stack
 
 ### Front-End
 - React
+- Axios
 - Material UI
 - SCSS
 
 ### Back-End
 - Node.js
 - Express
-- Socket.IO
+- Axios
+- Socket.io
 - PostgreSQL
 
 ## Final Product
