@@ -13,6 +13,7 @@ To view the app live on Heroku, please visit https://the-symposium.herokuapp.com
 
 ### Front-End
 - React
+- Simple-Peer
 - Axios
 - Material UI
 - SCSS
